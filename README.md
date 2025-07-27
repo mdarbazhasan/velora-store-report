@@ -70,3 +70,12 @@ This segment has the highest engagement, sales contribution, and delivery succes
 
 For queries or suggestions, feel free to reach out to me via GitHub Issues or Pull Requests.
 
+---
+
+## 📸 Dashboard Preview
+
+![Dashboard](Virohan%20Store%20Data%20Analysis.png)
+
+
+
+
