@@ -26,12 +26,6 @@ To analyze the annual sales performance of Velora Store and uncover:
 
 ---
 
-## 🖼️ Visual Dashboard Preview
-
-![Excel Dashboard Preview](velora Store Data Analysis.png)
-
----
-
 ## 📁 Project Files
 
 | File Name                         | Description                                                        |
